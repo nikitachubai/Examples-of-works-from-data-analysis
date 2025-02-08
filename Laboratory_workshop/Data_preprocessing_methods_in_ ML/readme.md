@@ -13,7 +13,7 @@ The objective of this course is to learn how to process and prepare data for mac
 
 ## Laboratory Works
 The following datasets were used in our laboratory assignments:
-- **ND_LR_2(WS) diabetes_repeated_hospital** – Analysis of repeated hospitalizations for diabetes patients.
+- **Laboratory_workshop 1:diabetes_rehospitalization** – Analysis of repeated hospitalizations for diabetes patients.
 - **NU_LR_3(diabetes_puma).csv** – Diabetes dataset with regional (PUMA) data.
 - **NU_LR_4(agaricus-lepiota).csv** – Classification of mushroom edibility.
 - **NU_LR_6(parkinson_speech).csv** – Speech signal analysis for Parkinson’s disease detection.
